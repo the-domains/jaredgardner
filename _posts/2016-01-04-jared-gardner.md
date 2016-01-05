@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-05T01:45:56.889Z'
-dateModified: '2016-01-05T01:38:20.453Z'
+datePublished: '2016-01-05T01:55:55.854Z'
+dateModified: '2016-01-05T01:53:04.212Z'
 title: Jared Gardner
 author: []
 sourcePath: _posts/2016-01-04-jared-gardner.md
