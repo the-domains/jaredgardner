@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-05T02:25:36.540Z'
-dateModified: '2016-01-05T02:20:16.252Z'
+datePublished: '2016-01-05T02:35:16.254Z'
+dateModified: '2016-01-05T02:32:02.696Z'
 title: Jared Gardner
 author: []
 sourcePath: _posts/2016-01-04-jared-gardner.md
@@ -19,10 +18,11 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: jared-gardner/index.html
+_type: Article
 
 ---
 # Jared Gardner
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a06a540b6adb959e1daadbc12fe6ccf24608a702.jpg)
 
 writer | teacher | guttergeek
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a06a540b6adb959e1daadbc12fe6ccf24608a702.jpg)
