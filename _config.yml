@@ -1,6 +1,6 @@
 name: JaredGardner
 favicon: null
-layout_spectrum: 0.48812
+layout_spectrum: 0.24431
 typography_spectrum: 0.28896
 title: Jared Gardner
 cta:
@@ -22,7 +22,7 @@ color:
     - '#2f2e32'
     - '#fdfdfd'
     - '#a8b1aa'
-  brandStrength: 0.25
+  brandStrength: 0.5
   lightness: 0.5767319337464869
   saturation: 0.4420623092446476
   rhythmicContrast: 0.6878202359657735
