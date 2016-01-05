@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-05T01:55:55.854Z'
-dateModified: '2016-01-05T01:53:04.212Z'
+datePublished: '2016-01-05T02:17:35.240Z'
+dateModified: '2016-01-05T02:16:22.001Z'
 title: Jared Gardner
 author: []
 sourcePath: _posts/2016-01-04-jared-gardner.md
