@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[Jared Gardner]]></title>
         <description><![CDATA[Jared Gardner]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jaredgardner/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 02:35:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jan 2016 21:20:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jaredgardner/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Jared Gardner]]></title>
             <description><![CDATA[<article><h1>Jared Gardner</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1ab68ba699bcb3d4c1a505bf13805199e636e22.jpg"></article>]]></description>
-            <link>undefinedjared-gardner/index.html</link>
+            <link>https://thegrid.ai/jaredgardner/jared-gardner/index.html</link>
             <guid isPermaLink="false">460abb6a-3cf1-4435-ba55-ecdfbf6062be</guid>
             <pubDate>Tue, 05 Jan 2016 02:35:16 GMT</pubDate>
         </item>
