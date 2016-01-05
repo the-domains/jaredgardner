@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-05T21:20:51.939Z'
-dateModified: '2016-01-05T21:20:40.500Z'
+datePublished: '2016-01-05T21:22:07.751Z'
+dateModified: '2016-01-05T21:21:58.880Z'
 title: Jared Gardner
 author: []
 sourcePath: _posts/2016-01-04-jared-gardner.md
@@ -25,4 +25,4 @@ _type: Article
 # Jared Gardner
 
 teacher | writer | guttergeek
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a06a540b6adb959e1daadbc12fe6ccf24608a702.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1ab68ba699bcb3d4c1a505bf13805199e636e22.jpg)
