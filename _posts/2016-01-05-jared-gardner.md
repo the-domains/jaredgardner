@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-05T01:06:44.652Z'
-dateModified: '2016-01-05T01:06:25.531Z'
+datePublished: '2016-01-05T01:19:38.994Z'
+dateModified: '2016-01-05T01:16:00.112Z'
 title: Jared Gardner
 author: []
 authors: []
@@ -23,4 +23,5 @@ _type: Article
 
 ---
 # Jared Gardner
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/87fcb765-0a08-4512-b025-130a55392fb8.jpg)
+
+teacher • writer • guttergeek
