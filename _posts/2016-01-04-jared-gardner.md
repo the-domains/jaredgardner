@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-05T21:25:35.824Z'
-dateModified: '2016-01-05T21:25:28.978Z'
-title: Jared Gardner
+datePublished: '2016-01-06T22:16:50.593Z'
+dateModified: '2016-01-06T22:16:45.993Z'
+title: "teacher \_| \_writer \_| \_guttergeek"
 author: []
 sourcePath: _posts/2016-01-04-jared-gardner.md
 published: true
@@ -22,9 +22,7 @@ url: jared-gardner/index.html
 _type: Article
 
 ---
-# Jared Gardner
+# **teacher  |  writer  |  guttergeek**
 
 ****
-
-**teacher  |  writer  |  guttergeek**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1ab68ba699bcb3d4c1a505bf13805199e636e22.jpg)
