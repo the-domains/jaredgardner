@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-06T22:23:33.934Z'
-dateModified: '2016-01-06T22:23:26.393Z'
+datePublished: '2016-01-08T14:18:45.010Z'
+dateModified: '2016-01-06T23:53:07.400Z'
 title: "teacher \_| \_writer \_| \_guttergeek"
 author: []
 sourcePath: _posts/2016-01-04-jared-gardner.md
@@ -23,7 +23,6 @@ _type: Article
 
 ---
 # **teacher  |  writer  |  guttergeek**
-null
 
 ****
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1ab68ba699bcb3d4c1a505bf13805199e636e22.jpg)
